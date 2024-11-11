@@ -1,0 +1,32 @@
+body{
+    background-color:#243642 ;
+    font-family: Times New Roman;
+    font-size: 1.35rem;
+    color:#387478 ;
+    font-weight: bold;
+}
+.profileAlignment{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.centerTable{
+    margin-left: auto;
+    margin-right: auto;
+}
+.linkCells{
+    padding: 10px;
+}
+.profilePic{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+a:link{
+    color:#629584;
+}
+a:Visited{
+    color:#629584;
+}
+a:hover{
+    color:#E2F1E7;
+}
